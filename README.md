@@ -1,2 +1,2 @@
 # personal-website
-# zacharyknowles.com
+zacharyknowles.com
