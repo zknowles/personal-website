@@ -9,7 +9,7 @@ body {
     height: 100%;
     font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #fff;
-    background-color: #EE7F2D;
+    background-color: #000;
 }
 
 html {
@@ -359,8 +359,12 @@ ul.banner-social-buttons {
     }
 }
 
+#contact {
+    padding-top: 140px;
+}
+
 footer {
-    padding: 50px 0;
+    padding: 0;
 }
 
 footer p {
